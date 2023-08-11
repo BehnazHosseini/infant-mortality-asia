@@ -2,6 +2,13 @@
 ## Overview
 This project aims to investigate the trends and factors affecting infant mortality rates in Asian countries. By analyzing a diverse dataset containing information on various socio-economic, healthcare, and environmental factors, we seek to gain insights into the key determinants of infant mortality in the region.
 
+## Table of Contents
+1. [Motivation](#motivation)
+2. [Data Sources](#data-sources)
+3. [Methodology](#methodology)
+4. [Key Findings](#key-findings)
+5. [Conclusion](#conclusion)
+
 ## Motivation
 Infant mortality is a critical indicator of a nation's healthcare system and social development. Understanding the factors influencing infant mortality can lead to targeted interventions and policy changes to improve child health outcomes. Our goal is to shed light on the complex relationships between different variables and infant mortality rates, enabling evidence-based decision-making for public health initiatives.
 
