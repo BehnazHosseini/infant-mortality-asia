@@ -32,4 +32,4 @@ Access to basic sanitation and healthcare services, such as birth attended by he
 Income group and region play a crucial role in explaining variations in infant mortality rates.
 
 ## Conclusion
-Our comprehensive analysis has revealed valuable insights into the factors impacting infant mortality rates in Asian countries. The project serves as a valuable resource for policymakers, healthcare professionals, and researchers striving to improve child health outcomes in the region.
+My comprehensive analysis has revealed valuable insights into the factors impacting infant mortality rates in Asian countries. The project serves as a valuable resource for policymakers, healthcare professionals, and researchers striving to improve child health outcomes in the region.
